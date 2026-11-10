@@ -337,8 +337,6 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Abdullah Karim 24K-0932**
-**Usman Hassan 24K-0567**
-**Zaid 24K-0636**
 
 
 ## 🙏 Acknowledgments
