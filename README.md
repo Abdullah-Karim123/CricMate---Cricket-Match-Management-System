@@ -127,7 +127,7 @@ cricmate/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MuhammadMustafa18/CricMateDbProject.git
+   git clone https://github.com/Abdullah-Karim123/CricMate---Cricket-Match-Management-System.git
    cd cricmate/backend
    ```
 
@@ -319,9 +319,6 @@ http://localhost:8080
 - `id` (PK, FK to auth.users)
 - `is_admin`
 
-## 🎨 Screenshots
-
-*Add screenshots of your application here*
 
 ## 🤝 Contributing
 
